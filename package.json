@@ -1,15 +1,17 @@
 {
-  "name": "react-redux-universal-hot-example",
-  "description": "Example of an isomorphic (universal) webapp using react redux and hot reloading",
-  "author": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)",
+  "name": "Mindr",
+  "description": "A tinder-like web app for movies",
+  "author": "9IC (https://github.com/9ic/9ic)",
   "license": "MIT",
-  "version": "0.9.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erikras/react-redux-universal-hot-example"
+    "url": "https://github.com/9ic/9ic"
   },
-  "homepage": "https://github.com/erikras/react-redux-universal-hot-example",
+  "homepage": "https://github.com/9ic/9ic",
   "keywords": [
+    "tinder for movies", 
+    "minder",
     "react",
     "isomorphic",
     "universal",
@@ -22,6 +24,9 @@
     "boilerplate",
     "babel"
   ],
+  "bugs": {
+      "url": "https://github.com/9ic/minder/issues"
+  },
   "main": "bin/server.js",
   "scripts": {
     "start": "concurrent --kill-others \"npm run start-prod\" \"npm run start-prod-api\"",

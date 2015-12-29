@@ -1,5 +1,8 @@
 # Mindr
 
+Tinder for Movies using React and Redux. 
+Check more on [Wiki](docs/HOME.md)
+
 
 
 ## Installation
