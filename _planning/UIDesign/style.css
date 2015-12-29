@@ -1,0 +1,114 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Roboto:400,700);
+/*
+ * Colors
+ * ========================================================================== */
+/*
+ * Typography
+ * ========================================================================== */
+/*
+ * Layout
+ * ========================================================================== */
+/*
+ * Media queries breakpoints
+ * ========================================================================== */
+/* Extra small screen / phone */
+/* Small screen / tablet */
+/* Medium screen / desktop */
+/* Large screen / wide desktop */
+/*
+ * Animations
+ * ========================================================================== */
+/*
+ * Additional setups
+ * ========================================================================== */
+/*
+ * Global styling
+ * ========================================================================== */
+* {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none; }
+
+html {
+  font-size: 14px; }
+
+body {
+  margin: 0;
+  color: #000;
+  font-size: 1.1rem;
+  font-family: "Roboto", sans-serif; }
+
+a {
+  font-family: "Roboto Slab", serif;
+  color: #FFC107; }
+  a:hover, a:focus {
+    color: #FFA000;
+    text-decoration: none; }
+
+.active {
+  color: #FFA000 !important; }
+
+/*
+ * Navbar styling
+ * ========================================================================== */
+nav.navbar-default {
+  background-color: #FFC107;
+  border: none; }
+  nav.navbar-default .navbar-brand {
+    color: #FFF; }
+  nav.navbar-default .slogan {
+    height: 100%;
+    margin-right: 60px; }
+    nav.navbar-default .slogan h4 {
+      margin: 16px;
+      line-height: 100%; }
+  nav.navbar-default .navbar-right li a {
+    color: #000; }
+    nav.navbar-default .navbar-right li a:active, nav.navbar-default .navbar-right li a:hover {
+      color: #FFA000; }
+
+/*
+ * Main container styling
+ * ========================================================================== */
+main {
+  margin: 60px auto;
+  min-height: 800px;
+  background-color: #FFF; }
+
+/*
+  * Footer styling
+  * ========================================================================== */
+footer {
+  height: 80px;
+  width: 100%;
+  padding: 16px 0;
+  background-color: #000;
+  color: #B6B6B6; }
+
+/*
+ * Genre List styling
+ * ========================================================================== */
+
+
+/*
+ * Colors
+ * ========================================================================== */
+/*
+ * Typography
+ * ========================================================================== */
+/*
+ * Layout
+ * ========================================================================== */
+/*
+ * Media queries breakpoints
+ * ========================================================================== */
+/* Extra small screen / phone */
+/* Small screen / tablet */
+/* Medium screen / desktop */
+/* Large screen / wide desktop */
+/*
+ * Animations
+ * ========================================================================== */
+/*
+ * Additional setups
+ * ========================================================================== */

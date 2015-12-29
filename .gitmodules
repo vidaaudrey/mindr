@@ -1,0 +1,6 @@
+[submodule "mindr.wiki"]
+	path = mindr.wiki
+	url = https://github.com/vidaaudrey/mindr.wiki.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/vidaaudrey/mindr.wiki.git

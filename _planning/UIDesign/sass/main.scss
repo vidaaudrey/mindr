@@ -1,0 +1,122 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Roboto:400,700);
+@import './variables.scss';
+@import './mixins.scss';
+
+
+/*
+ * Global styling
+ * ========================================================================== */
+
+*{
+     @include box-shadow(none);
+}
+html{
+    font-size: 14px;
+}
+body {
+    margin: 0;
+    color: $black-base;
+    font-size: 1.1rem;
+    font-family: $roboto;
+}
+a {
+    font-family: $roboto-slab;
+    color: $link-color;
+    &:hover, &:focus {
+        color: $link-hover-color;
+        text-decoration: none;
+    }
+}
+.active{
+    color: $dark-primary-color !important;
+}
+
+#app{
+}
+
+.card-small{
+
+}
+
+.card-big{
+
+}
+/*
+ * Navbar styling
+ * ========================================================================== */
+
+nav {
+    &.navbar-default{
+        background-color: $primary-color;
+        border: none;
+        .navbar-brand{
+            color: $white-base;
+        }
+        .slogan{
+            height: 100%;
+            margin-right: 60px;
+            h4{
+                margin: 16px;
+                line-height: 100%
+            }
+        }
+        .navbar-right {
+            li{
+                a{
+                    color: $black-base;
+                    &:active, &:hover{
+                        color: $dark-primary-color;
+                    }
+                }
+            }
+        }
+
+    }
+    
+}
+
+/*
+ * Main container styling
+ * ========================================================================== */
+
+main {
+    margin: 60px auto;
+    min-height: 800px;
+    background-color: $white-base;
+}
+
+
+
+
+ /*
+  * Footer styling
+  * ========================================================================== */
+footer{
+    height: 80px;
+    width: 100%;
+    padding: 16px 0;
+    background-color: $black-base;
+    color: $gray-light;
+}
+
+
+/*
+ * Genre List styling
+ * ========================================================================== */
+#genre-list{
+    .card-small{
+        .thumbnail{
+            .caption {
+
+            }
+        }
+
+    }
+
+}
+
+
+
+
+
+

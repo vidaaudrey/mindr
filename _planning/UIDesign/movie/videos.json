@@ -1,0 +1,32 @@
+{
+  "id": 198184,
+  "results": [
+    {
+      "id": "54b063bdc3a368094000066b",
+      "iso_639_1": "en",
+      "key": "HhNshgSYF_M",
+      "name": "Trailer #1",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    },
+    {
+      "id": "54b063c7c3a3680945000768",
+      "iso_639_1": "en",
+      "key": "lyy7y0QOK-0",
+      "name": "Trailer #2",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    },
+    {
+      "id": "54e01386c3a36855c7002741",
+      "iso_639_1": "en",
+      "key": "KLkRbCRWDMQ",
+      "name": "TV Trailer",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer"
+    }
+  ]
+}
