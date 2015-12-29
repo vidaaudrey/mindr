@@ -1,7 +1,7 @@
 # Mindr
 
 Tinder for Movies using React and Redux. 
-Check more on [Wiki](docs/HOME.md)
+Check more on [Wiki](https://github.com/9ic/mindr/wiki)
 
 
 
